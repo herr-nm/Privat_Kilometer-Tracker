@@ -1,0 +1,9 @@
+# Sensible Konfigurationsdaten ignorieren
+.env
+
+# Datenbank/JSON-Dateien ignorieren (falls diese nicht im Repository landen sollen)
+km_log.json
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
+Thumbs.db
